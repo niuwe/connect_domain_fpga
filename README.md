@@ -4,3 +4,4 @@
 仿真文件使用matlab生成二值化图像，再将图像数据转换为XX.dat格式，提供给Vivado的testbench.sv读取。
 为方便测试与观察，本次使用10*10大小的图片。
 最终测试结果表明，verilog代码可以实现matlab中bwlabel()函数相同的功能。
+![image](https://github.com/user-attachments/assets/5c54dc03-0f39-4db6-8133-cb589438470e)
