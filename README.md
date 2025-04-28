@@ -5,5 +5,7 @@
 为方便测试与观察，本次使用10*10大小的图片。
 最终测试结果表明，verilog代码可以实现matlab中bwlabel()函数相同的功能。
 
+![Uploading image.png…]()
+
 在一帧视频传输结束后，在毫秒级内就可以完成查找计算连通域中心。
 ![image](https://github.com/user-attachments/assets/5c54dc03-0f39-4db6-8133-cb589438470e)
